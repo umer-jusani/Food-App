@@ -12,8 +12,6 @@
 
 This project was undertaken as part of my internship period.
 
-## Getting Started
-
 ### Installation
 
 1. Clone the repository.
